@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import AllRoutes from "./Component/AllRoutes";
+import Navbar from "./Component/Navbar";
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-  trip
-      </header>
+    <Navbar></Navbar>
+   <AllRoutes></AllRoutes>
+
     </div>
   );
 }
