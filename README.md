@@ -1,4 +1,8 @@
 # dizzy-stove-3148-
+clone of Make My Trip
+
+MakeMyTrip is an Indian online travel company founded in 2000.[1] Headquartered in Gurugram, Haryana, its a company. the company provides online travel services including airline tickets, domestic and international holiday packages, hotel reservations, rail, and bus tickets. As of 31 March 2018, they have 14 company-owned travel stores in 14 cities, over 30 franchisee-owned travel stores in 28 cities, and counters in four major airports in India. MakeMyTrip has also numerous international offices in New York, Singapore, Kuala Lumpur, Phuket, Bangkok, and Dubai.
+
 #Netlify link : https://cloneofmakemytrip.netlify.app/
 
 
